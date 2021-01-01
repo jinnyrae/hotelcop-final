@@ -25,7 +25,7 @@ window.onload = function(){
     
     
  //------------------FORMULAIRE----------------------
-
+// : j'ai beaucoup essayé de faire marcher ce code, j'ai l'impression qu'il y a un conflis entre les feuilles script bootstrap et le js du site web
   
 
  let controleEmail = false;
