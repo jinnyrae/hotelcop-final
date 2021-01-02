@@ -156,7 +156,9 @@ main{
    height: 100%;
    width: 100%;
  }
- 
+ .carousel-inner{
+     padding-top: 5rem;
+ }
  .carousel-item {
    text-align: center;
  }
