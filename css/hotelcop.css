@@ -344,7 +344,8 @@ font-family:'Gayathri', sans-serif;
  }
  
 .hover:hover{
-    text-decoration: underline  #b19724e3;
+    text-decoration: underline 
+   color:  #b19724e3;
      
 }
  .titre{
