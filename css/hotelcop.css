@@ -90,8 +90,8 @@ header{
 
 #site-search{
 width: 100%; 
-max-width: 250px;
-height: 30px;
+max-width: 10rem;
+height: 1.75rem;
 margin-left: 20px;
 border: 2px solid  #b19724e3 ;
 border-radius: 4px;
