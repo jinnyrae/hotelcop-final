@@ -201,14 +201,7 @@ font-size: 1rem;
 font-family:'Thasadith-sans-serif';
 color:#b19724e3;
 }
-.img-suite{
-    padding-bottom: 50px;
-    padding-top: 100px;
-    padding-left: 0;
-    padding-right: 0;
-    margin-left: 0;
-    margin-right: 0;
-}
+
 
 .chbr{
     padding-bottom: 100px;
@@ -254,6 +247,14 @@ color:#b19724e3;
 
 #showSuite{
  display: none;
+}
+.img-suite{
+    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .separe{
