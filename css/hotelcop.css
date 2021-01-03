@@ -203,14 +203,7 @@ font-size: 1rem;
 font-family:'Thasadith-sans-serif';
 color:#b19724e3;
 }
-.img-suite{
-    padding-bottom: 50px;
-    padding-top: 100px;
-    padding-left: 0;
-    padding-right: 0;
-    margin-left: 0;
-    margin-right: 0;
-}
+
 
 .chbr{
     padding-bottom: 100px;
@@ -257,6 +250,14 @@ color:#b19724e3;
 #showSuite{
  display: none;
 }
+.img-suite{
+    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
 
 .separe{
     border-bottom: 1px #b19724e3 solid;
@@ -264,8 +265,10 @@ color:#b19724e3;
     margin-bottom: 10px;
 }
 
-.img-suite{
+.img-accueil{
     margin-bottom: 25px;
+    padding:0;
+    padding-top: 6rem;
 }
 
 .separe1{
